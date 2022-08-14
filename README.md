@@ -1,4 +1,4 @@
 # Rakuten-Email-Example-
-Email Template for the company Rakuten. Responsive and works on mobile too. 
+Email Template Design for Rakuten. 
 
 [Link to live preview](https://rakuten-email.netlify.app/)
